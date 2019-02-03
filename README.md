@@ -1,5 +1,8 @@
 # Damage-Map-Addons
 
+PLEASE DONATE: https://github.com/juandayz/Damage-Map-Addons/blob/master/DONATION.md
+
+
 1-at bottom of init add:
 ```ruby
 execVM "scripts\damage_cities.sqf";
